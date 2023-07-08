@@ -7,4 +7,5 @@ Drum kitte ise butonlara tıkladığınızda veya gösterilen harflere bastığ�
 ilgili ses çıkacaktır. Tüm butonlara tıklarsanız ardından klavye kullanırsanız ses bir kaç kat artmış olacaktır. O yüzden 
 kulaklık kullanıyorsanız buna dikkat edin.
 
-
+Bunlar ödev olarak yaptığım projelerdir. Ses ve görselleri AppBrewery sağlamaktadır. Kodlaması bana aittir.
+İbrahim Durak 
