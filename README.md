@@ -6,8 +6,8 @@ Herhangi bir npm modülü kullanılmadı. Açmak için tüm dosyaları indirin v
 Zar atma oyununda sayfayı yenilediğinizde rastgele iki zar bağımsız olay olarak gösterilir.
 
 Drum kitte ise butonlara tıkladığınızda veya gösterilen harflere bastığınızda (ilk olarak bir tanesine tıklamalısınız)
-ilgili ses çıkacaktır. Tüm butonlara tıklarsanız ardından klavye kullanırsanız ses bir kaç kat artmış olacaktır. O yüzden 
-kulaklık kullanıyorsanız buna dikkat edin.
+ilgili ses çıkacaktır. Ancak mause ile tıkladığınız her bir tık sayısınca klawye kullandığınızda o tık sayısı kadar aynı anda ses çalmış olursunuz. O yüzden 
+kulaklık kullanıyorsanız buna dikkat edin. Ya sadece tıklama ya da sadece klavye kullanın.
 
 Bunlar ödev olarak yaptığım projelerdir. Ses ve görselleri AppBrewery sağlamaktadır. Kodlaması bana aittir.
 İbrahim Durak 
