@@ -1,7 +1,7 @@
 # 18.0 Drum Kit klasöründe index.html adlı dosya ile drum kit'i açabilirsiniz.
 Ayrıca dicee.html ile de zar atma oyununu açabilirsiniz.
 
-Herhangi bir npm modülü kullanılmadı. Açmak için belirttiğim dosyaları vscode veya farklı bir platformda açın, ve showpreview ile kolayca başlatın.
+Herhangi bir npm modülü kullanılmadı. Açmak için tüm dosyaları indirin ve belirttiğim html dosyalarını tarayıcınızda açın.
 
 Zar atma oyununda sayfayı yenilediğinizde rastgele iki zar bağımsız olay olarak gösterilir.
 
