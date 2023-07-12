@@ -1,4 +1,6 @@
-# 18.0 Drum Kit klasöründe index.html adlı dosya ile drum kit'i açabilirsiniz.
+# Dosyalarda ekran görüntülerini gördüğünüz E-Mail kayıt uygulamasına bu hesaptaki diğer projelere bakarak ulaşabilirsiniz.
+Link: https://github.com/tyroady/eMailApp/edit/main/README.md
+18.0 Drum Kit klasöründe index.html adlı dosya ile drum kit'i açabilirsiniz.
 Ayrıca dicee.html ile de zar atma oyununu açabilirsiniz.
 
 Herhangi bir npm modülü kullanılmadı. Açmak için tüm dosyaları indirin ve belirttiğim html dosyalarını tarayıcınızda açın.
