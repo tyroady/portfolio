@@ -1,5 +1,5 @@
 # Dosyalarda ekran görüntülerini gördüğünüz E-Mail kayıt uygulamasına bu hesaptaki diğer projelere bakarak ulaşabilirsiniz.
-Link: https://github.com/tyroady/eMailApp/edit/main/README.md
+#Link: https://github.com/tyroady/eMailApp/edit/main/README.md
 18.0 Drum Kit klasöründe index.html adlı dosya ile drum kit'i açabilirsiniz.
 Ayrıca dicee.html ile de zar atma oyununu açabilirsiniz.
 
